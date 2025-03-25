@@ -14,7 +14,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.2.4</version> <!-- Use the latest stable version as of March 2025 -->
+        <version>3.2.4</version> <!-- Latest stable version as of March 2025 -->
         <relativePath/>
     </parent>
 
